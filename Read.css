@@ -157,7 +157,13 @@ a{
   font-family:cursive ;
 }
 .time{
-        font-size:25px;
+        Font-size:25px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-content: center;
         }
 h4{
         text-align:right;
